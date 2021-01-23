@@ -2,7 +2,7 @@
 <head>
 <title> Pittsburgh Photography: Prints, Calendars, Postcards and More </title>
 <meta name="description" content="Online photography gallery based in Pittsburgh, PA. Offers prints, calendars, postcards, real estate photgraphy and more ">
-  <meta http-equiv="refresh" content="2.5; URL=http://google.com/" />
+  <meta http-equiv="refresh" content="25; URL=http://google.com/" />
 
 
     <style> 
