@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html 
 <head>
 <title> Pittsburgh Photography: Prints, Calendars, Postcards and More </title>
