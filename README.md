@@ -110,7 +110,8 @@
 <body> 
 
 <video autoplay muted loop id="myVideo">
-  <source src="C:\Users\jlemk\OneDrive\Desktop\Photo_Website\Background.mp4" type="video/mp4">
+  <source src= url("https://raw.githubusercontent.com/{pghphotography21}/{RedirectPage}/{main}/Background.mp4"); 
+}
   
 </video>
     
