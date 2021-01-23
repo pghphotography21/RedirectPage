@@ -1,4 +1,4 @@
-<html 
+
 <head>
 <title> Pittsburgh Photography: Prints, Calendars, Postcards and More </title>
 <meta name="description" content="Online photography gallery based in Pittsburgh, PA. Offers prints, calendars, postcards, real estate photgraphy and more ">
@@ -121,7 +121,7 @@
     </div>
 
 </body>
-</html>
+
 
 
 
