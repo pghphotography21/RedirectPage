@@ -110,7 +110,7 @@
 <body> 
 
 <video autoplay muted loop id="myVideo">
-  <source src= url("https://github.com/pghphotography21/RedirectPage/blob/main/Background.mp4"); 
+  <source src= url("https://github.com/pghphotography21/RedirectPage/blob/main/Pittsburgh_Photography.mp4"); 
 }
   
 </video>
