@@ -18,6 +18,7 @@
   bottom: 0;
   min-width: 100%; 
   min-height: 100%;
+  max-width: -webkit-fill-available;
 }
 
 .content {
