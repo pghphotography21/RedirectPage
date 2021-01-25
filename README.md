@@ -114,7 +114,7 @@
 
 <body> 
 
-<video autoplay muted loop id="myVideo">
+<video class="video-background" autoplay loop muted playsinline  id="myVideo">
      <source src="Pittsburgh_Photography.mp4" type="video/mp4">; 
 }
   
