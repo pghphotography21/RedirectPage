@@ -13,6 +13,7 @@
 }
 
 #myVideo {
+  object-fit: cover;
   position: absolute;
   right: 0;
   bottom: 0;
