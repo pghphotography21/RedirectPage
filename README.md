@@ -9,7 +9,7 @@
        {
   margin: 0;
   font-family: Arial;
-  font-size: 17px;
+  font-size: 10px;
 }
 
 #myVideo {
