@@ -18,6 +18,9 @@
   bottom: 0;
   min-width: 100%; 
   min-height: 100%;
+  top: 50%; 
+  left: 50%; 
+  transform: translate(-50%, -50%);
   max-width: -webkit-fill-available;
 }
 
