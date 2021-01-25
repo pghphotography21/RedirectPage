@@ -62,7 +62,7 @@
     } 
   
     .loader .loading_2 { 
-        position: absolute; 
+        position: relative; 
         width: 200%; 
         top: 420px; 
         color: #154360; 
