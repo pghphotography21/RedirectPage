@@ -58,6 +58,7 @@
         background-color: #95A5A6; 
         border-radius: 20px; 
         top: 10%;
+        left: 33%;
         animation: load 4s linear infinite; 
     } 
   
@@ -65,6 +66,7 @@
         position: relative; 
         width: 200%; 
         top: 30%; 
+        left: 33%;
         color: #154360; 
         font-size: 13px;
         font-family: "arial"; 
