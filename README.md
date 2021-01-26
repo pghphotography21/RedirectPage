@@ -57,14 +57,14 @@
         height: 100%; 
         background-color: #95A5A6; 
         border-radius: 20px; 
-        top: 77%;
+        top: 10%;
         animation: load 4s linear infinite; 
     } 
   
     .loader .loading_2 { 
         position: relative; 
         width: 200%; 
-        top: 90%; 
+        top: 20%; 
         color: #154360; 
         font-size: 13px;
         font-family: "arial"; 
