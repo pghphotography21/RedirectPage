@@ -60,7 +60,7 @@
         background-color: #95A5A6; 
         border-radius: 20px; 
         top: 50%;
-        left: 50%
+        left: 50%;
         animation: load 4s linear infinite; 
     } 
   
