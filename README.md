@@ -60,6 +60,9 @@
         background-color: #95A5A6; 
         border-radius: 20px; 
         top: 400px;
+        display: flex;
+        justify-content: center;
+        
         animation: load 4s linear infinite; 
     } 
   
@@ -70,8 +73,7 @@
         color: #154360; 
         font-size: 13px;
         font-family: "arial"; 
-        display: flex;
-        justify-content: center;
+        text-align: center;
         
     } 
   
