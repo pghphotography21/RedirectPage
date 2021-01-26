@@ -54,12 +54,12 @@
     .loader .loading_1:before { 
   content: ""; 
         display: block; 
-        position: absolute; 
+        position: relative; 
         width: 0; 
         height: 100%; 
         background-color: #95A5A6; 
         border-radius: 20px; 
-        bottom: 20px;
+        bottom: 20%;
         display: flex;
         justify-content: center;
         
