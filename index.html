@@ -54,12 +54,13 @@
     .loader .loading_1:before { 
         content: ""; 
         display: block; 
-        position: absolute; 
+        position: fixed; 
         width: 0; 
         height: 100%; 
         background-color: #95A5A6; 
         border-radius: 20px; 
-        top: 400px;
+        top: 50%;
+        left: 50%
         animation: load 4s linear infinite; 
     } 
   
