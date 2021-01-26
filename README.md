@@ -59,7 +59,7 @@
         height: 100%; 
         background-color: #95A5A6; 
         border-radius: 20px; 
-        bottom: 20%;
+        bottom: 20px;
         display: flex;
         justify-content: center;
         
