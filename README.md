@@ -52,15 +52,14 @@
     } 
   
     .loader .loading_1:before { 
-        content: ""; 
+  content: ""; 
         display: block; 
-        position: fixed; 
+        position: absolute; 
         width: 0; 
         height: 100%; 
         background-color: #95A5A6; 
         border-radius: 20px; 
-        top: 50%;
-        left: 50%;
+        top: 400px;
         animation: load 4s linear infinite; 
     } 
   
