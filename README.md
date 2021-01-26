@@ -61,7 +61,7 @@
         bottom: 20px;
         display: flex;
         justify-content: center;
-        
+        align-items: center;
         animation: load 4s linear infinite; 
     } 
   
