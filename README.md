@@ -1,8 +1,10 @@
+<!DOCTYPE html>
+<html 
 <head>
 <title> Pittsburgh Photography: Prints, Calendars, Postcards and More </title>
 <meta name= "viewport" content= "width=device-width, initial-scale=1">
 <meta name="description" content="Online photography gallery based in Pittsburgh, PA. Offers prints, calendars, postcards, real estate photgraphy and more ">
-  <meta http-equiv="refresh" content="25; URL=http://google.com/" />
+  <meta http-equiv="refresh" content="20; URL=http://cnn.com/" />
 
 
     <style> 
@@ -52,12 +54,13 @@
     .loader .loading_1:before { 
         content: ""; 
         display: block; 
-        position: absolute; 
+        position: fixed; 
         width: 0; 
         height: 100%; 
         background-color: #95A5A6; 
         border-radius: 20px; 
-        top: 10%;
+        top: 50%;
+      left: 50%;
         animation: load 4s linear infinite; 
     } 
   
@@ -116,8 +119,7 @@
 <body> 
 
 <video class="video-background" autoplay loop muted playsinline  id="myVideo">
-     <source src="Pittsburgh_Photography.mp4" type="video/mp4">; 
-}
+  <source src="Pittsburgh_Photography.mp4" type="video/mp4">; 
   
 </video>
     
@@ -127,7 +129,7 @@
     </div>
 
 </body>
-
+</html>
 
 
 
