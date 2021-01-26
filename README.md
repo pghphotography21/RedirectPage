@@ -69,7 +69,7 @@
     .loader .loading_2 { 
         position: relative; 
         width: 200%; 
-        top: 420px; 
+        bottom: 20%; 
         color: #154360; 
         font-size: 13px;
         font-family: "arial"; 
