@@ -57,7 +57,7 @@
         height: 100%; 
         background-color: #95A5A6; 
         border-radius: 20px; 
-        bottom 10%;
+        bottom 30%;
         animation: load 4s linear infinite; 
     } 
   
