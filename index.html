@@ -62,6 +62,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        margin: 0 auto;
         animation: load 4s linear infinite; 
     } 
   
