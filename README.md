@@ -52,8 +52,7 @@
     } 
   
     .loader .loading_1:before { 
-  content: ""; 
-        display: block; 
+  content: "";      
         position: relative; 
         width: 0; 
         height: 100%; 
