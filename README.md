@@ -4,7 +4,7 @@
 <title> Pittsburgh Photography: Prints, Calendars, Postcards and More </title>
 <meta name= "viewport" content= "width=device-width, initial-scale=1">
 <meta name="description" content="Online photography gallery based in Pittsburgh, PA. Offers prints, calendars, postcards, real estate photgraphy and more ">
-  <meta http-equiv="refresh" content="10; URL=http://cnn.com/" />
+  <meta http-equiv="refresh" content="20; URL=http://cnn.com/" />
 
 
     <style> 
@@ -37,45 +37,39 @@
 }
   
     .loader { 
-        width: 100px; 
-        margin: 150px auto 70px; 
-        position: relative; 
-    } 
+   width: 120px; 
+   height: 10px;
+   position: fixed;
+   left: 50%;
+   top: 80%; 
+   transform: translate(-50%, -50%);  
+      } 
   
-    .loader .loading_1 { 
-        position: relative; 
-        width: 200%; 
-        height: 10px; 
-        border: 1px #626567; 
-        border-radius: 25px; 
-        animation: turn 5s linear 5s infinite; 
-    } 
   
-    .loader .loading_1:before { 
-  content: "";      
-        position: relative; 
+     .loader .loading_1:before { 
+  content: ""; 
+        position: absolute; 
         width: 0; 
         height: 100%; 
         background-color: #95A5A6; 
         border-radius: 20px; 
-        bottom: 20px;
+        bottom: 20%; 
         display: flex;
-        justify-content: center;
         align-items: center;
-        margin: 0 auto;
+        margin: auto;
         animation: load 4s linear infinite; 
-    } 
+    }
   
     .loader .loading_2 { 
-        position: relative; 
+        position: absolute; 
         width: 200%; 
-        bottom: 20%; 
+        bottom: 15%;
         color: #154360; 
         font-size: 13px;
         font-family: "arial"; 
         text-align: center;
-        margin-right: 40%;
-        margin-left: 40%;
+        margin: auto;
+       
     } 
   
     @keyframes load { 
@@ -114,7 +108,8 @@
         12.5% { 
             top: 30px; 
         } 
-    } 
+    }  
+  
 </style> 
 
 </head>
