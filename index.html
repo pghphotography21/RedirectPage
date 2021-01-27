@@ -74,7 +74,8 @@
         font-size: 13px;
         font-family: "arial"; 
         text-align: center;
-        
+        margin-right: 40%;
+        margin-left: 40%;
     } 
   
     @keyframes load { 
