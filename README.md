@@ -4,7 +4,7 @@
 <title> Pittsburgh Photography: Prints, Calendars, Postcards and More </title>
 <meta name= "viewport" content= "width=device-width, initial-scale=1">
 <meta name="description" content="Online photography gallery based in Pittsburgh, PA. Offers prints, calendars, postcards, real estate photgraphy and more ">
-  <meta http-equiv="refresh" content="20; URL=http://cnn.com/" />
+  <meta http-equiv="refresh" content="20; URL=http://bbc.com/" />
 
 
     <style> 
@@ -45,7 +45,6 @@
    transform: translate(-50%, -50%);  
       } 
   
-  
      .loader .loading_1:before { 
   content: ""; 
         position: absolute; 
@@ -61,12 +60,13 @@
     }
   
     .loader .loading_2 { 
-        position: absolute; 
+        position: relative; 
         width: 200%; 
         bottom: 15%;
         color: #154360; 
         font-size: 13px;
-        font-family: "arial"; 
+        font-family: "arial";
+        display: flex;
         text-align: center;
         margin: auto;
        
