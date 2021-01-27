@@ -37,7 +37,7 @@
 }
   
     .loader { 
-   width: 150px; 
+   width: 130px; 
    height: 15px;
    position: fixed;
    left: 50%;
